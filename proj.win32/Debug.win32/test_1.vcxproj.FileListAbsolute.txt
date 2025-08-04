@@ -1,0 +1,1 @@
+D:\cocos2dx\test_1\proj.win32\Debug.win32\test_1.exe
